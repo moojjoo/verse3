@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Concert Listing</title>
+<link rel="stylesheet" href="css/verse3.css">
+<style type="text/css">
+<!--
+-->
+</style>
+</head>
+<body bgcolor="#000000">
+
+<p><span class="notes">Please click <a href="music.htm" target="_blank">here</a> to here are latest
+album in the works.
+</span></P>
+
+<table with=380 border=0>
+<tr>
+	<td>
+
+<!--**************Only Area you need to change****************-->
+
+
+<p>September 30th &quot;Rock~n~Java&quot;<br>Charlotte, NC ---- at 9:00</p>
+
+<p>October 14th &quot;Living Arts Coffee Shop&quot;<br>
+&quot;Acoustic Night Edge Night&quot;
+<br>Charlotte, NC ---- at 8:00</p>
+
+<p>January 6th &quot;Rock~n~Java&quot; <br>Charlotte, NC ---- at 8:00pm(704)-527-3833</p>
+
+
+
+
+<!--**************Only Area you need to change****************-->
+
+           <p> Please check back for unknown times or call us at (704)238-1294. Also
+        feel free to e-mail us for any questions about events, locations,or booking
+        infomation. Thanks, Verse3 </p>
+      <p> More Dates coming soon...<br>
+    </p>
+
+    </td>
+</tr>
+</table>
+</body>
+</html>

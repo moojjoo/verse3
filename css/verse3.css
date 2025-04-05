@@ -1,0 +1,21 @@
+p {  font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #CCCCCC; text-decoration: none}
+
+b { font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #CCCCCC; text-decoration: none }
+
+i { font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: italic; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #CCCCCC; text-decoration: none }
+
+h1 { font-family: "Courier New", sans-serif, Arial; font-size: 16pt; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #CCCCCC; text-decoration: none }
+
+.button { font-family: Arial, sans-serif, ; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #000000; text-decoration: none }
+
+.notes { font-family: "Courier New", sans-serif, Arial; font-size: 9pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FF0000; text-decoration: none }
+
+.news { font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #FF0000; text-decoration: none }
+
+a { font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; color: white;}
+
+a:hover { font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; color: #0000FF;}
+
+a:active { font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; color: #0000FF;}
+
+td {  font-family: "Courier New", sans-serif, Arial; font-size: 12pt; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none; color: #CCCCCC; text-decoration: none}
